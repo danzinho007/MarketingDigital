@@ -109,7 +109,7 @@ Resumo :
 
 
 
-Venda :
+Venda : Instalar o pixel na página
 -Carrinho 
 -Checkout
 ---Comprafinalizada--
@@ -118,6 +118,106 @@ Venda :
 -Upsell 
 --Downsell
 -Página de Obrigado
+
+Usando facebook : Colunas / Métricas
+Instalar o pixel na máquina
+
+Caixa-Ativação-Anúncio-Veiculação :
+-Orçamento
+Quanto investiu
+-Valor gasto
+Quanto gastou
+-Valor de conversão de compras
+Quanto que vendeu / Faturamento
+-Retorno sobre o investimento em publicidade ( ROAS )
+Valor gasto * Valor de conversão de compra
+-Configuração de atribuição
+Padrão do facebook
+-Resultados
+Saiu X vendas
+-Custo por resultado
+Quanto gastou pra 1 venda
+-Classificação de qualidade 
+Relevância do assunto
+Não adianta de nada
+
+-CPM 
+Cada ano que passa fica mais caro !!!
+Custo por 1.000 impressões 
+Impressão é diferente de visualização
+Não são 1.000 pessoas, a mesma pode visualizar várias vezes o anúncio
+
+-CTR
+Taxa de cliques no Link
+Quantas pessoas clicaram
+A cada 100 pessoas X pessoas clicaram
+7% maior
+
+-Cliques no Link
+
+-CPC
+
+-Visualizações de conteúdo
+
+-Custo por vizualização de conteúdo
+Custo por click
+
+-Visualizações de conteúdo
+
+-Custo por visualização de conteúdo
+Custo pra visualizar a página
+
+-Finalizações de compra inciada
+Pessoa só clicou no Checkout
+
+-Custo por finalização de compra
+5 Caro
+3 ótimo
+
+-Inclusões de Informações de pagamento
+Pessoa começou a preencher os dados
+
+-Custo por inclusão de informações
+
+-Compras
+
+Observações :
+1- Se o valor de conversão de compras for >
+Não precisa analisar
+2- Se o CTR for menor ( 0 até 1 % ) o CPC será mais caro
+3- 
+
+Exemplo de venda :
+Cliques no Link = 193
+Visualizações de conteúdo = 161
+Finalizações de compra iniciadas = 9
+Inclusões de informações de pagamento = 4
+Compras = 4
+
+---Escala :
+
+-Tipos :
+Escala vertical = Começar a gastar dinheiro 
+Não cair nessa !!!
+O facebook acha que você só tem 1 conta
+Sua conta irá cair algum dia, mesmo vendendo brinquedo pra criança
+Escala horizontal = Criar mais campanhas
+
+-Como escalar :
+Subir exatamente o que funciona e fazer em várias contas
+Dentro de uma BM pode ter 3 anúncios
+Aumentar 20% o Orçamento
+20% de 50 é 60
+Teto de 300 reais !!!
+
+-Outras formas :
+Aumenta orçamento 
+Subindo em outra conta
+Duplicar na mesma conta
+
+-Problemas :
+Limite de gasto
+Bloqueio
 
 ---Sites
 AliExpress
@@ -128,21 +228,27 @@ cliente.hostgator.com/dominios
 canva.com
 droppoint.site
 mindmeister.com
+facebook pixer helper = meta pixel helper
+ThePersonNotExist
+business.facebook
 
 ---Termos :
 -aida = 
+-bm = contas empresariais
 -anúncio = Ser criativo e despertar gatilhos mentais
 -copy = textos persuasivos
 -copywriting = escrever textos persuasivos pra vender ( chatgpt bom nisso )
 -criativo = anúncio nas redes sociais
 -desconto progressivo = Quanto mais compra mais barato fica
+-CPC = Custo por clique
+-CPM = Custo por impressões
 -CTR = Taxa de cliques no anúncio
 design = 
 -Downsel = página para quem recusa o upsell 
 Comprou ? Recebe oferta, recusou ? Aparece uma oferta por tempo limitado
 -Dropshipping
 E-commerce = 
-escala = 
+escala = potencializar seu anúncio
 estruturação de oferta = 
 -funil = 
 -landing page = site pra vendas
@@ -153,9 +259,11 @@ Se vender por 200 está com markup de 2x ( max 3x )
 -order bump = Oferta de um produto extra no carinho da pessoa, pode ser algo igual ou diferente 
 Ex : Comprar um caneta e leva outra por 1 real 
 -pirâmide de maslow = Quanto mais alto da pirâmide mais difícil vender
+-pixel = mensageiro que informa quantos viu, quantos clicou e quantos compraram o produto
 -precificação = 
 -template = 
-tráfego = site na internet pra venda
+-tráfego = site na internet pra venda
+-tráfego direto = clicou ? vai direto pra página
 tráfego pago = 
 -upsell = oferta após a compra
 Comprou ? Recebe mais uma oferta por tempo limitado
