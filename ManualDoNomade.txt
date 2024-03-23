@@ -219,6 +219,27 @@ Duplicar na mesma conta
 Limite de gasto
 Bloqueio
 
+---Bloqueio 
+
+-Algoritmo bloqueia por algo suspeito / incomum
+Atividades bruscas ( Ex Troca de computador )
+Falta de aquecimento de perfil ( Não interagir )
+Mesmo navegador ( )
+Mesmo número cartão de crédito ( Usar cartões virtuais : Nubank e conta simples precisa de CNPJ )
+Finger Print ( Impressão Digital )
+Conexão ( IP )
+
+-Tipos de bloqueio 
+Perfil = Se tomar block, anuncio fica no ar, porém pode desativar
+BM = Perde tudo ( pixel, conta de anúncio, público, etc )
+Numa BM pode ter 3 contas de anúncio
+Algumas liberam só 1 conta
+Você pode ter 2 BM no perfil
+Conta de anúncio = Menos pior pra tomar block
+
+---Ferramentas multilogin
+Simulam outro computador / navegador
+
 ---Sites
 AliExpress
 accounts.cartpanda.com
@@ -231,6 +252,10 @@ mindmeister.com
 facebook pixer helper = meta pixel helper
 ThePersonNotExist
 business.facebook
+Dolphin Anty = até 10 perfis de graça
+multilogin = pago, melhor do mercado
+ads power = até 2 perfis e salve os cookies 
+cookie editor = extensão do chrome
 
 ---Termos :
 -aida = 
