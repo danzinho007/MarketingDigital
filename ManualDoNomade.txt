@@ -229,13 +229,59 @@ Mesmo número cartão de crédito ( Usar cartões virtuais : Nubank e conta simp
 Finger Print ( Impressão Digital )
 Conexão ( IP )
 
--Tipos de bloqueio 
+---Tipos de bloqueio 
 Perfil = Se tomar block, anuncio fica no ar, porém pode desativar
 BM = Perde tudo ( pixel, conta de anúncio, público, etc )
 Numa BM pode ter 3 contas de anúncio
 Algumas liberam só 1 conta
 Você pode ter 2 BM no perfil
 Conta de anúncio = Menos pior pra tomar block
+
+---Conexões :
+Recomendado : Wi-fi e 4G
+
+Wi-fi : Básico
+4G : Fácil e prático
+iproxy : Celular só pra isso
+Proxy : ipv4 : blaze
+Proxy residencial : Paga por GB : Muito caro
+
+---Cruzamento de dados :
+Impressão Digital
+Cartão
+Nunca compartilhar dados de um perfil com outro
+
+---Perfis pra anunciar :
+Amigos e familiares
+Farming = criar vários perfis
+Fornecedores
+
+---Farming :
+O que e ? : Criar perfis do zero até deixar apto pra anunciar
+Esteira de aquecimento : Processo pelo qual o perfil vai passar até ficar pronto
+Quantos dias ? : mínimo 7 dias : Se possível deixar o perfil descansar ou use apenas a conta pessoal
+Número de telefone ? : @numeros.virtuais_bot ou @recebersmsbot : ambos do telegram
+Email ? : protonmail.com ou gmail ( precisa de telefone )
+Foto ? ThePersonNotExist
+
+---Esteira de Aquecimento :
+Dia 1 : Criar conta + Número + Email + Dados
+... 2 : Curtir / Compartilhar / Postar normalmente
+... 3 : Curtir / Compartilhar / Postar normalmente
+... 4 : Curtir / Compartilhar / Postar normalmente
+... 5 : Curtir / Compartilhar / Postar normalmente
+... 6 : Curtir / Compartilhar / Postar normalmente
+... 7 : Curtir / Compartilhar / Postar normalmente
+... 8 : Perfil descansar 
+
+---Encaixar essas coisas no dias acima !!!
+-Conecta no Spotify, Americanas, iFood 
+-Criar fã page e preencher dados
+-Programas publicações na fã page pelos próximos 7 / 14 dias
+-Adicionar 5 / 10 amigos 
+
+---
+
 
 ---Ferramentas multilogin
 Simulam outro computador / navegador
@@ -256,6 +302,9 @@ Dolphin Anty = até 10 perfis de graça
 multilogin = pago, melhor do mercado
 ads power = até 2 perfis e salve os cookies 
 cookie editor = extensão do chrome
+opensador = frases
+Trello = criar  mapas mentais
+Notion = criar mapas mentais
 
 ---Termos :
 -aida = 
