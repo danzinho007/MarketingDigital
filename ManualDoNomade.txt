@@ -280,8 +280,43 @@ Dia 1 : Criar conta + Número + Email + Dados
 -Programas publicações na fã page pelos próximos 7 / 14 dias
 -Adicionar 5 / 10 amigos 
 
----
+---Vendendo pelo WhatsApp
 
+Gerar link
+Criar uma landing page 
+Anunciar com imagem / vídeo do produto / Serviço
+Roteiro de venda : AIDA
+
+---Vantagens do WhatsApp :
+
+Maior atenção ao cliente
+Maior taxa de conversão
+Aquisição de mais experiência com vendas
+
+---Desvantagens do WhatsApp :
+
+Dificuldade para escalar = não vai conseguir dar atenção a todos
+Precisa de robô e funcionário
+Maior demanda do seu tempo
+
+---Teste básico do WhatsApp :
+
+-Primeiro contato do cliente
+-Apresentação : Oi, tudo bem ? Meu nome é ..., vou te explicar todos os benefícios do ... e como ele pode te ajudar de uma vez por todas a resolver ...
+-Soluções do produto : foto, vídeo, mandar áudio, etc
+-Quebrando objeções : Dúvidas dos clientes
+-Oferta especial : Geralmente a gente vende por ... mas atualmente está saíndo com o preço de ... Se você levar l paga X, se levar 2 paga Y e se quiser 3 paga Z
+-Upsell : Você quer aproveitar seu frete grátis e levar isso aqui
+-E se o cliente não quiser ? : Negociação, escassez, contato depois, ...
+
+---Validação e Escala :
+-Como saber ? Acima dos 25%
+-Como escalar ? Robô > Funcionário
+
+---Contratação Funcionário :
+-Salário Fixo + Comissão
+
+Fim
 
 ---Ferramentas multilogin
 Simulam outro computador / navegador
@@ -305,9 +340,11 @@ cookie editor = extensão do chrome
 opensador = frases
 Trello = criar  mapas mentais
 Notion = criar mapas mentais
+zap.convertte.com
+app.botconversa.com.br
 
 ---Termos :
--aida = 
+-aida = Atenção Interesse Desejo Ação
 -bm = contas empresariais
 -anúncio = Ser criativo e despertar gatilhos mentais
 -copy = textos persuasivos
