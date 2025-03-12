@@ -1,0 +1,52 @@
+---Termos :
+-aida = Atenção Interesse Desejo Ação
+-anúncio = Ser criativo e despertar gatilhos mentais
+-Benchmarking
+Fazer benchmarking é fazer comparações de resultados ou ideias utilizadas pelos concorrentes ou pela própria empresa no passado para se construir um planejamento de comunicação, ou buscar correções de rota em uma ação já em andamento.
+-bm = contas empresariais
+-Bounce Rate
+Bounce poderia ser traduzido livremente por “quicar”. Dentre as inúmeras pessoas que entram em um site em um dia, a grande maioria delas vai embora, sem ver outra página e, muitas vezes, ficam apenas alguns segundos até se decidirem se vão continuar naquele site ou não. Bounce rate (taxa de rejeição) é a relação entre o número de pessoas que entra em uma página de um site e o número de pessoas que permanecem navegando nele. Quanto maior o bounce, pior o resultado.
+-Branding
+Branding é uma palavra que ouvimos muito e basicamente representa a marca, seus valores, sua apresentação visual e o significado desejado junto aos seus consumidores.
+-Briefing
+Briefing é o conjunto de informações repassado aos elaboradores de um plano de comunicação ou vendas para que se possam tomar decisões das abordagens que tenham maior possibilidade de sucesso.
+
+-copy = textos persuasivos
+-copywriting = escrever textos persuasivos pra vender ( chatgpt bom nisso )
+-criativo = anúncio nas redes sociais
+-desconto progressivo = Quanto mais compra mais barato fica
+-CPC = Custo por clique
+-CPM = Custo por impressões
+-CTR = Taxa de cliques no anúncio
+design = 
+-Downsel = página para quem recusa o upsell 
+Comprou ? Recebe oferta, recusou ? Aparece uma oferta por tempo limitado
+-Dropshipping
+
+-E-commerce = 
+-E-mail Marketing
+E-mail marketing é a estratégia de se comunicar com consumidores e potenciais consumidores por meio de uma série de e-mails, muitas vezes apresentando ofertas.
+Lembrando que a própria palavra e-mail também tem origem na língua inglesa:
+E-: Electrônico
+Mail: Correio
+-escala = potencializar seu anúncio
+-estruturação de oferta = 
+-funil = 
+-landing page = site pra vendas
+-Lead
+Um lead é um potencial cliente obtido por meio de ações de comunicação. Muitas vezes os leads são considerados como mais “frios” ou mais “quentes” de acordo com a sua real possibilidade de se transformar de “potencial” para “consumidor ou cliente”.
+-markup = quantas vezes acima o produto está em relação ao preço original
+Ex : 100 reais 
+Se vender por 200 está com markup de 2x ( max 3x )
+-nichos = 
+-order bump = Oferta de um produto extra no carinho da pessoa, pode ser algo igual ou diferente 
+Ex : Comprar um caneta e leva outra por 1 real 
+-pirâmide de maslow = Quanto mais alto da pirâmide mais difícil vender
+-pixel = mensageiro que informa quantos viu, quantos clicou e quantos compraram o produto
+-precificação = 
+-template = 
+-tráfego = site na internet pra venda
+-tráfego direto = clicou ? vai direto pra página
+tráfego pago = 
+-upsell = oferta após a compra
+Comprou ? Recebe mais uma oferta por tempo limitado

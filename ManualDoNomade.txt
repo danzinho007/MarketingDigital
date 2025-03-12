@@ -383,39 +383,3 @@ Trello = criar  mapas mentais
 Notion = criar mapas mentais
 zap.convertte.com
 app.botconversa.com.br
-
----Termos :
--aida = Atenção Interesse Desejo Ação
--bm = contas empresariais
--anúncio = Ser criativo e despertar gatilhos mentais
--copy = textos persuasivos
--copywriting = escrever textos persuasivos pra vender ( chatgpt bom nisso )
--criativo = anúncio nas redes sociais
--desconto progressivo = Quanto mais compra mais barato fica
--CPC = Custo por clique
--CPM = Custo por impressões
--CTR = Taxa de cliques no anúncio
-design = 
--Downsel = página para quem recusa o upsell 
-Comprou ? Recebe oferta, recusou ? Aparece uma oferta por tempo limitado
--Dropshipping
-E-commerce = 
-escala = potencializar seu anúncio
-estruturação de oferta = 
--funil = 
--landing page = site pra vendas
--markup = quantas vezes acima o produto está em relação ao preço original
-Ex : 100 reais 
-Se vender por 200 está com markup de 2x ( max 3x )
--nichos = 
--order bump = Oferta de um produto extra no carinho da pessoa, pode ser algo igual ou diferente 
-Ex : Comprar um caneta e leva outra por 1 real 
--pirâmide de maslow = Quanto mais alto da pirâmide mais difícil vender
--pixel = mensageiro que informa quantos viu, quantos clicou e quantos compraram o produto
--precificação = 
--template = 
--tráfego = site na internet pra venda
--tráfego direto = clicou ? vai direto pra página
-tráfego pago = 
--upsell = oferta após a compra
-Comprou ? Recebe mais uma oferta por tempo limitado
