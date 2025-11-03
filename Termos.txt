@@ -39,14 +39,17 @@ Um lead é um potencial cliente obtido por meio de ações de comunicação. Mui
 Ex : 100 reais 
 Se vender por 200 está com markup de 2x ( max 3x )
 -nichos = 
+
 -order bump = Oferta de um produto extra no carinho da pessoa, pode ser algo igual ou diferente 
 Ex : Comprar um caneta e leva outra por 1 real 
 -pirâmide de maslow = Quanto mais alto da pirâmide mais difícil vender
 -pixel = mensageiro que informa quantos viu, quantos clicou e quantos compraram o produto
 -precificação = 
+
 -template = 
 -tráfego = site na internet pra venda
 -tráfego direto = clicou ? vai direto pra página
 tráfego pago = 
+
 -upsell = oferta após a compra
 Comprou ? Recebe mais uma oferta por tempo limitado
